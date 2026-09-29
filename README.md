@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am a RegTech and financial-services transformation professional with more than 10 years of experience designing and delivering enterprise Client Lifecycle Management, KYC, tax-compliance and client-risk platforms for global banking environments.
 
 My work focuses on turning complex regulatory obligations into scalable digital capabilities: policy-as-code, intelligent workflow orchestration, explainable client-risk assessment, country-specific regulatory addenda, and API-led integration across the client lifecycle.
