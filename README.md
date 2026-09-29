@@ -1,62 +1,69 @@
-# Hi, I'm Anandhan 👋
+Anandhan Kannan
+RegTech | Client Lifecycle Management | Financial Crime Compliance | AI-Enabled Transformation
 
-## RegTech | Financial Services Transformation | AI-Orchestrated CLM
+I am a RegTech and financial-services transformation professional with more than 10 years of experience designing and delivering enterprise Client Lifecycle Management (CLM), KYC, tax-compliance, and client-risk platforms within global banking environments.
 
-I am a **RegTech and financial-services transformation professional** with more than **10 years of experience** designing and delivering enterprise **Client Lifecycle Management (CLM), KYC, tax-compliance, and client-risk platforms** for global banking environments.
+My work focuses on translating complex regulatory requirements into scalable digital capabilities, combining regulatory policy, business process design, technology architecture, workflow orchestration, and automation.
 
-My work focuses on turning complex regulatory obligations into scalable digital capabilities, including **policy-as-code, intelligent workflow orchestration, explainable client-risk assessment, country-specific regulatory addenda, and API-led integration** across the client lifecycle.
+Professional Focus
 
-## 🚀 What I Work On
+I specialise in the design and transformation of financial-services platforms across:
 
-* 🔭 I’m currently working on **AI-orchestrated Client Lifecycle Management (CLM) models**, where specialised agents coordinate CRM data retrieval, document intelligence, regulatory screening, risk assessment, and decisioning.
-* 🌱 I’m currently exploring **Agentic AI, regulation-as-code, policy-as-code, intelligent document processing, and interoperable financial-services platforms**.
-* 👯 I’m interested in collaborating on **RegTech, CLM, KYC/CDD, AML, AI orchestration, and financial-services transformation projects**.
-* 🤝 I’m interested in exchanging ideas around **AI-driven compliance, explainable risk decisioning, and scalable regulatory architecture**.
-* 💬 Ask me about **CLM, KYC/CDD, AML/CTF, FATCA/CRS, client-risk assessment, regulatory change, Drools, policy-as-code, and digital transformation**.
+Client Lifecycle Management (CLM)
+Know Your Customer (KYC) and Customer Due Diligence (CDD)
+Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF)
+Client Risk Assessment
+FATCA and CRS
+Regulatory Change
+Policy-as-Code
+Rules and Decisioning Platforms
+Intelligent Workflow Orchestration
+Intelligent Document Processing
+API-Led Integration
+SaaS Delivery
+Digital Transformation
+Experience and Impact
 
-## 📈 Impact
+I have led and contributed to transformation initiatives that have:
 
-I have led initiatives that:
+Reduced client onboarding time by 50–70%
+Standardised compliance decision-making across more than 50 markets
+Automated data collection, document processing, screening, validation, and risk-assessment workflows
+Translated regulatory policies into structured rules and executable decisioning capabilities
+Integrated regulatory controls across complex enterprise client-lifecycle ecosystems
+AI-Orchestrated Client Lifecycle Management
 
-* Reduced client onboarding time by **50–70%**
-* Standardised compliance decision-making across **50+ markets**
-* Reduced operational effort through automation of **data collection, document processing, screening, validation, and risk-assessment workflows**
-* Translated complex regulatory requirements into **scalable digital workflows and decisioning capabilities**
+More recently, my focus has expanded into AI-orchestrated CLM models, where specialised capabilities coordinate activities across the client lifecycle, including:
 
-## 🤖 AI-Orchestrated CLM
+CRM Data Retrieval → Document Intelligence → Regulatory Screening → Risk Assessment → Decisioning
 
-More recently, I have been designing **AI-orchestrated CLM models** in which specialised agents coordinate:
+The objective is to create a unified and intelligent client journey that reduces duplicate information requests, strengthens regulatory controls, improves auditability, and focuses human intervention on genuine exceptions and higher-risk decisions.
 
-`CRM Data Retrieval` → `Document Intelligence` → `Regulatory Screening` → `Risk Assessment` → `Decisioning`
+Technology and Architecture
 
-The objective is simple: create a **single, intelligent client journey** with fewer duplicate requests, stronger controls, complete auditability, and human intervention focused on true exceptions.
+My work includes:
 
-## 🎯 Areas of Focus
+Policy-as-Code and Regulation-as-Code
+Drools and rules-based decisioning
+Workflow and process orchestration
+API-led architecture
+AI and agent orchestration
+Intelligent document processing
+Client and regulatory data integration
+Explainable risk assessment
+Enterprise SaaS platforms
+Areas of Interest
 
-I work at the intersection of **financial-crime compliance, product design, technology architecture, and business transformation**.
+I am particularly interested in the convergence of artificial intelligence, regulatory technology, and modern platform architecture.
 
-I am particularly interested in how **AI, regulation-as-code, and interoperable data platforms** can help banks and fintechs deliver faster onboarding without compromising regulatory integrity.
+My current areas of interest include AI-enabled CLM, agentic workflow orchestration, explainable compliance decisioning, regulation-as-code, interoperable data platforms, and the application of AI to complex financial-services processes.
 
-## 🧩 Core Areas
+Current Focus
 
-`Client Lifecycle Management (CLM)`
-`KYC / CDD`
-`AML / CTF`
-`Client Risk Assessment`
-`FATCA / CRS`
-`Regulatory Change`
-`Policy-as-Code`
-`Drools`
-`AI Orchestration`
-`Intelligent Document Processing`
-`Digital Transformation`
-`SaaS Delivery`
-
-
-
----
-
-> Building intelligent, explainable and scalable compliance platforms for the future of financial services.
+Working on: AI-orchestrated CLM and intelligent regulatory workflows
+Exploring: Agentic AI, regulation-as-code, explainable decisioning, and intelligent document processing
+Open to collaboration: RegTech, CLM, KYC/CDD, financial-crime compliance, and AI-enabled financial-services transformation
+Areas of discussion: CLM architecture, KYC/CDD, AML/CTF, FATCA/CRS, client-risk assessment, regulatory change, policy-as-code, Drools, and AI orchestration
 
 <!--
 **anandhankannan/anandhankannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
